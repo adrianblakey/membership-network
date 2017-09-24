@@ -1,6 +1,6 @@
-# Basic Sample Business Network
+# Membership Proof of Concept Network
 
-> This is the "Hello World" of Hyperledger Composer samples, which demonstrates the core functionality of Hyperledger Composer by changing the value of an asset.
+> This is a helath care insurance proof of concept of a membership business network built on Hyperledger Composer.
 
 This business network defines:
 
